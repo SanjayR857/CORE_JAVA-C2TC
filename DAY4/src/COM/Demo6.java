@@ -1,5 +1,5 @@
 package COM;
-//creating method
+//creating method and calling using object
 public class Demo6 {
 int a=100;
 void test() {
