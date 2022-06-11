@@ -21,3 +21,11 @@ public class sample {
 		s1.test();
 	}
 }
+/*
+this is sample()
+this is sample()
+scom.thiskey.sample@2c7b84de
+thiscom.thiskey.sample@2c7b84de
+s1com.thiskey.sample@3fee733d
+thiscom.thiskey.sample@3fee733d
+*/
