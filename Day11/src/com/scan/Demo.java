@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	Scanner s=new Scanner(System.in);
 	int sum=0,count=0;
 	//loop
-	while(count<=2) {
+	while(s.hasNextInt()) {
 		int num=s.nextInt();
 		sum+=num;
 		count++;
@@ -17,4 +17,12 @@ public static void main(String[] args) {
 	System.out.println("mean: "+mean);
 	}
 }
-
+/*
+ 1
+ 2
+ 3
+ 4
+ 5
+ A stop
+ mean: 3
+ */

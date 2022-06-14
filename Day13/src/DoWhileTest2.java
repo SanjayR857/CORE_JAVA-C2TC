@@ -1,9 +1,9 @@
 
 public class DoWhileTest2 {
 public static void main(String[] args) {
-	do
+	do 
 		System.out.println("FRIENDS");
-		while (true);
+	while(true);
 		System.out.println("ENEMY");
 }
 }
