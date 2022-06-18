@@ -2,7 +2,7 @@ package com;
 //for loop
 public class Code17 {
 public static void main(String[] args) {
-	int number = 8;
+	int number = 9;
 	boolean isPrime = true;
 	for(int i = 2; i < number/2; i++)
 	{
