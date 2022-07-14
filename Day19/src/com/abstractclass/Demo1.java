@@ -4,7 +4,7 @@ abstract class Bike{
 	
 	abstract void run();
 }
-class Honda extends Bike {	
+ class Honda extends Bike {	
 	void run() {
 		
 		System.out.println("bike is running");
@@ -12,7 +12,7 @@ class Honda extends Bike {
 }
 
 
-public class Demo1 {
+ class Demo1 {
 	
 public static void main(String[] args) {
 	
